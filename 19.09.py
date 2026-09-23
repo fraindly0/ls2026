@@ -52,12 +52,12 @@
 # img_size = pacage_size / img_in_package
 # N = 2 ** i
 # print(N)
-from math import log2, ceil
-res1 = 1024 * 768
-res2 = 800 * 600
-N = 223
-i = ceil(log2(N))
-img_in_package = 100
-img_size1 = res1 * i
-img_size2 = res2 * i
-pocage_size =
+# from math import log2, ceil
+# res1 = 1024 * 768
+# res2 = 800 * 600
+# N = 223
+# i = ceil(log2(N))
+# img_in_package = 100
+# img_size1 = res1 * i
+# img_size2 = res2 * i
+# pocage_size =
