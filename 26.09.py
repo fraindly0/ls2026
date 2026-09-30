@@ -71,12 +71,12 @@ from math import ceil
 
 # print(39 * 4 * 2.5 / 2)
 
-t = 2 * 60 + 30
-n = 48000
-i = 32
-k = 2
-bitraid = 1280000
-i_compresed = 16
-n_compresed = 32000
-v = t * n * i * k
-v_compresed = t * n * i_compresed * k * n_compresed
+# t = 2 * 60 + 30
+# n = 48000
+# i = 32
+# k = 2
+# bitraid = 1280000
+# i_compresed = 16
+# n_compresed = 32000
+# v = t * n * i * k
+# v_compresed = t * n * i_compresed * k * n_compresed

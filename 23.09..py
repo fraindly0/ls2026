@@ -57,11 +57,11 @@
 # q = Valbon // bitraid
 # print(q)
 
-t = 180
-i = 8
-n = 24000
-bitraid = 48000
-k = 2
-V = k * t * i * n
-q = V / bitraid
-print(q)
+# t = 180
+# i = 8
+# n = 24000
+# bitraid = 48000
+# k = 2
+# V = k * t * i * n
+# q = V / bitraid
+# print(q)
